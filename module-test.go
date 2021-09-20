@@ -1,8 +1,8 @@
 // To test go module in other repository.
 //
-//Yes we go on Beyond with v2: v2 changelog
+// Yes we go on Beyond with v2: v2 changelog
 //
-//Nothing much, just test
+// Nothing much, just test
 package modulecheck
 
 import "fmt"
